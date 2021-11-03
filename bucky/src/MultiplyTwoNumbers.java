@@ -7,8 +7,8 @@ public class MultiplyTwoNumbers {
         int firstNumber = multiply.nextInt();
         System.out.println("second number");
         int secondNumber = multiply.nextInt();
-        int total = firstNumber * secondNumber;
-        System.out.println("total");
-        System.out.println(total);
+        int product = firstNumber * secondNumber;
+        System.out.println("product");
+        System.out.println(product);
     }
 }
