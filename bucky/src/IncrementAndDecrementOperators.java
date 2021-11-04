@@ -1,20 +1,20 @@
 public class IncrementAndDecrementOperators {
     public static void main(String[] args) {
-       int Sumit = 75;
-       int Naresh = 60;
-       int Kapil = 33;
-       Sumit += 7;
-       Naresh -= 5;
-       Kapil += 10;
-       System.out.println(Sumit);
-       System.out.println("Sumit");
+       int sumit = 75;
+       int naresh = 60;
+       int kapil = 33;
+       sumit += 7;
+       naresh -= 5;
+       kapil += 10;
+       System.out.println(sumit);
+       System.out.println("sumit");
 
-       System.out.println(Naresh);
-       System.out.println("Naresh");
+       System.out.println(naresh);
+       System.out.println("naresh");
 
        System.out.println("kapil");
-       System.out.println(Kapil++);
-       System.out.println("Kapil post increment");
-       System.out.println(Kapil);
+       System.out.println(kapil++);
+       System.out.println("kapil post increment");
+       System.out.println(kapil);
     }
 }
