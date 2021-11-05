@@ -16,4 +16,8 @@ public class SwitchStatement {
             default -> System.out.println("you are a Human being and world dont need you");
         }
     }
+
+    public void myMessage() {
+        System.out.println("This is switch statement message");
+    }
 }
